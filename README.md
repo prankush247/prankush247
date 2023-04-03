@@ -21,3 +21,9 @@ Welcome to my personal profile repository!</br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
+<style>
+  /* Add some padding between the logos */
+  p img {
+    padding-right: 10px;
+  }
+</style>
