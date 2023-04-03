@@ -4,8 +4,8 @@ Welcome to my personal profile repository!</br>
 * If you're keen on knowing more about me or working together on a project, I invite you to explore my personal profile repository and connect with me. Let's build something amazing!
 <div id="header" align="center">
 <!--  <img src="https://github.com/prankush247/Profile/blob/main/TIby.gif" />  -->
-<!--  <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="500px" /> -->
-<img src="https://github.com/prankush247/prankush247/blob/main/OzV.gif"  />
+<!--  <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="450px" /> -->
+<img src="https://github.com/prankush247/prankush247/blob/main/OzV.gif" width="400px" />
 </div>
 
 
