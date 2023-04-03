@@ -7,13 +7,6 @@ Welcome to my personal profile repository!</br>
   <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="500px" />
 </div>
 
-<style>
-  /* Add some padding between the logos */
-  p img {
-    padding-right: 10px;
-  }
-</style>
-
 # Tech Stack
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -28,4 +21,9 @@ Welcome to my personal profile repository!</br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-
+<style>
+  /* Add some padding between the logos */
+  p img {
+    padding-right: 15px;
+  }
+</style>
