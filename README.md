@@ -7,12 +7,6 @@ Welcome to my personal profile repository!</br>
   <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="500px" />
 </div>
 
-<style>
-  /* Add some padding between the logos */
-  p img {
-    padding-right: 10px;
-  }
-</style>
 
 # Tech Stack
 <p align="left">
