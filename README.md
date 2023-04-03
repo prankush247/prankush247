@@ -6,3 +6,9 @@ Welcome to my personal profile repository!</br>
 <!--  <img src="https://github.com/prankush247/Profile/blob/main/TIby.gif" />  -->
   <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="500px" />
 </div>
+# Tech Stack
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/logo/html5-2" alt="CSS Logo" width="50" height="50"/>
