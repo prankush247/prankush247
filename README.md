@@ -5,7 +5,7 @@ If you're keen on knowing more about me or working together on a project, I invi
 <!--  <img src="https://github.com/prankush247/Profile/blob/main/TIby.gif" />  -->
 <!--  <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="450px" /> -->
 <!-- <img src="https://github.com/prankush247/prankush247/blob/main/OzV.gif" width="300px" /> -->
-    <iframe src="https://giphy.com/embed/gU25raLP4pUu4" width="480" height="360" frameBorder="1" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/blue-screen-gU25raLP4pUu4">via GIPHY</a></p>
+    <img src="https://giphy.com/embed/gU25raLP4pUu4" width="400px" height="300px" />
 </div>
 
 
