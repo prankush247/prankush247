@@ -6,7 +6,7 @@
 <!--  <img src="https://github.com/prankush247/Profile/blob/main/TIby.gif" />  -->
 <!--  <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="450px" /> -->
 <!-- <img src="https://github.com/prankush247/prankush247/blob/main/OzV.gif" width="300px" /> -->
-    <img src="https://github.com/prankush247/prankush247/blob/main/QFK.gif" width="900px" height="300px" />
+    <img src="https://github.com/prankush247/prankush247/blob/main/QFK.gif" width="700px" height="300px" />
 </div>
 
 
