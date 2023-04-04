@@ -1,5 +1,5 @@
 # About Me
-* <i>Interested in Web Development</i></br>
+* <i>Interested in Web Development.</i></br>
 * <i>If you're keen on working together on a project, I invite you to explore my repositories and connect with me.</i></br>
 * <i>Let's build something amazing!</i>
 <div id="header" align="center">
