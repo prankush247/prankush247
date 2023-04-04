@@ -24,5 +24,5 @@ Welcome to my personal profile repository!</br>
 </p>
 
 <div id="header" align="center">
-    <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif"/>
+    <img src="https://github.com/prankush247/prankush247/blob/main/5TMy.gif"/>
 </div>
