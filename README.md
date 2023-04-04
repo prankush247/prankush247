@@ -24,6 +24,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-<div id="header" >
-    <img src="https://github.com/prankush247/prankush247/blob/main/5TMy.gif"/>
-</div>
+<!-- <div id="header" >
+    <img src="https://github.com/prankush247/prankush247/blob/main/5TMy.gif" height="200px"/>
+</div> -->
