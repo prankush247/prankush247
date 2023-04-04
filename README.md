@@ -23,3 +23,6 @@ Welcome to my personal profile repository!</br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
+<div id="header" align="center">
+    <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif"/>
+</div>
