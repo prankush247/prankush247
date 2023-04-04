@@ -5,7 +5,7 @@ If you're keen on knowing more about me or working together on a project, I invi
 <!--  <img src="https://github.com/prankush247/Profile/blob/main/TIby.gif" />  -->
 <!--  <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="450px" /> -->
 <!-- <img src="https://github.com/prankush247/prankush247/blob/main/OzV.gif" width="300px" /> -->
-    <img src="https://giphy.com/embed/gU25raLP4pUu4" width="400px" height="300px" />
+    <img src="https://github.com/prankush247/prankush247/blob/main/QFK.gif" width="500px" height="300px" />
 </div>
 
 
