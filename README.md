@@ -1,15 +1,3 @@
-# About Me
-<!-- * <i>Interested in Web Development.</i></br>
-* <i>If you're keen on working together on a project, I invite you to explore my repositories and connect with me.</i></br> -->
-<!-- * <i>Let's build something amazing!</i> -->
-<div id="header" align="center">
-<!--  <img src="https://github.com/prankush247/Profile/blob/main/TIby.gif" />  -->
-<!--  <img src="https://github.com/prankush247/Profile/blob/main/7M9G.gif" width="450px" /> -->
-<!-- <img src="https://github.com/prankush247/prankush247/blob/main/OzV.gif" width="300px" /> -->
-    <img src="https://github.com/prankush247/prankush247/blob/main/QFK.gif" width="900px" height="280px" />
-</div>
-
-
 # Tech Stack
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
