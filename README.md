@@ -11,7 +11,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-    <img width="48" height="48" src="https://icons8.com/icon/MHcMYTljfKOr/flask" alt="linux--v1"/>
+    <img width="52" height="52" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
     
 </p>
 
