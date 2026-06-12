@@ -21,23 +21,11 @@ SQL | React | Firebase
 ```
 ### Finance Skills
 
-* Investment Research
-* Portfolio Management
-* Asset Allocation
-* Risk Analytics
-* Financial Modelling & Valuation
-* Quantitative Investing
-* Performance Analytics
-* Technical Analysis
+Portfolio Management • Investment Research • Asset Allocation • Risk Analytics • Financial Modelling & Valuation • Quantitative Investing • Performance Analytics
 
 ### Areas of Interest
 
-* Capital Markets
-* Portfolio Construction
-* Market Risk
-* Quantitative Finance
-* Systematic Investing
-* Data Analytics
+Capital Markets • Portfolio Construction • Market Risk • Quantitative Finance • Systematic Investing
 
 ### Current Focus
 
