@@ -1,6 +1,6 @@
 # Hi, I'm Prankush 👋
 
-🎯 Finance & Risk Analytics Enthusiast
+🎯 Finance, Investments & Risk Analytics Enthusiast
 
 I enjoy building projects at the intersection of finance, investments, risk management, and software development.
 
