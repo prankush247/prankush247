@@ -10,19 +10,22 @@ I enjoy building projects at the intersection of finance, investments, risk mana
 * Asset Allocation Models
 * Momentum Investing Strategies
 * Portfolio Analytics Dashboards
+* Miscellaneous Research based Topics
 
 ### Tech Stack
 
 ```text
-Python | Pandas | NumPy | Plotly
-Streamlit | Power BI | Excel
+Streamlit | Power BI | Alteryx | Excel
 SQL | React | Firebase
+Python | Pandas | NumPy | Plotly
 ```
 
 ### Areas of Interest
 
+* Capital Markets
 * Investment Research
 * Portfolio Management
+* Asset Allocation Models
 * Market Risk
 * Quantitative Finance
 * Data Analytics
@@ -33,5 +36,5 @@ Building tools for portfolio analytics, risk measurement, backtesting, and syste
 
 ### Connect
 
-LinkedIn: [Your LinkedIn]
-Email: [Your Email]
+LinkedIn: [Your LinkedIn](https://linkedin.com/in/prankush-billare-5b8285252)
+Email: [Your Email](prankushbillare247@gmail.com)
