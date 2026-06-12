@@ -11,6 +11,7 @@ I enjoy building projects at the intersection of finance, investments, risk mana
 * Momentum Investing Strategies
 * Portfolio Analytics Dashboards
 * Quantitative & Research-Driven Projects
+* Miscellaneous Research Based Topics
 
 ### Finance Skills
 
