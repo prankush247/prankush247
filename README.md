@@ -23,14 +23,6 @@ SQL | React | Firebase
 
 Portfolio Management • Investment Research • Asset Allocation • Risk Analytics • Financial Modelling & Valuation • Quantitative Investing • Performance Analytics
 
-### Areas of Interest
-
-Capital Markets • Portfolio Construction • Market Risk • Quantitative Finance • Systematic Investing
-
-### Current Focus
-
-Building tools for portfolio analytics, risk measurement, backtesting, and systematic investing.
-
 ### Credentials
 
 * NISM Series XV – Research Analyst
