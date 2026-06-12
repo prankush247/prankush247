@@ -12,13 +12,6 @@ I enjoy building projects at the intersection of finance, investments, risk mana
 * Portfolio Analytics Dashboards
 * Quantitative & Research-Driven Projects
 
-### Tech Stack
-
-```text
-Python | Pandas | NumPy | Plotly
-Streamlit | Power BI | Alteryx | Excel
-SQL | React | Firebase
-```
 ### Finance Skills
 
 Portfolio Management • Investment Research • Asset Allocation • Risk Analytics • Financial Modelling & Valuation • Quantitative Investing • Performance Analytics
@@ -28,6 +21,13 @@ Portfolio Management • Investment Research • Asset Allocation • Risk Analy
 * NISM Series XV – Research Analyst
 * NISM Series VIII – Equity Derivatives
 * Alteryx Designer Core Certified
+
+### Tech Stack
+```text
+Python | Pandas | NumPy | Plotly
+Streamlit | Power BI | Alteryx | Excel
+SQL | React | Firebase
+```
 
 ### Connect
 
