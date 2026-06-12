@@ -2,39 +2,55 @@
 
 🎯 Finance, Investments & Risk Analytics Enthusiast
 
-I enjoy building projects at the intersection of finance, investments, risk management, and software development.
+I enjoy building projects at the intersection of finance, investments, risk management, and technology.
 
-### What I'm working on
+### What I'm Working On
 
 * Portfolio Risk Engine
-* Asset Allocation Models
+* Dynamic Asset Allocation Models
 * Momentum Investing Strategies
 * Portfolio Analytics Dashboards
-* Miscellaneous Research based Topics
+* Quantitative & Research-Driven Projects
 
 ### Tech Stack
 
 ```text
+Python | Pandas | NumPy | Plotly
 Streamlit | Power BI | Alteryx | Excel
 SQL | React | Firebase
-Python | Pandas | NumPy | Plotly
 ```
+### Finance Skills
+
+* Investment Research
+* Portfolio Management
+* Asset Allocation
+* Risk Analytics
+* Financial Modelling & Valuation
+* Quantitative Investing
+* Performance Analytics
+* Technical Analysis
 
 ### Areas of Interest
 
 * Capital Markets
-* Investment Research
-* Portfolio Management
-* Asset Allocation Models
+* Portfolio Construction
 * Market Risk
 * Quantitative Finance
+* Systematic Investing
 * Data Analytics
 
 ### Current Focus
 
 Building tools for portfolio analytics, risk measurement, backtesting, and systematic investing.
 
+### Credentials
+
+* NISM Series XV – Research Analyst
+* NISM Series VIII – Equity Derivatives
+* Alteryx Designer Core Certified
+
 ### Connect
 
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/prankush-billare-5b8285252)
-Email: [Your Email](prankushbillare247@gmail.com)
+🔗 LinkedIn: [Prankush Billare](https://linkedin.com/in/prankush-billare-5b8285252)
+
+📧 Email: [prankushbillare247@gmail.com](mailto:prankushbillare247@gmail.com)
